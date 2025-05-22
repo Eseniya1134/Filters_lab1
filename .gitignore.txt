@@ -1,0 +1,10 @@
+# Игнорирование временных файлов Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.exe
+*.obj
+*.dll
+bin/
+obj/
